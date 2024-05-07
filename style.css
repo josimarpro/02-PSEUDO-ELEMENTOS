@@ -1,0 +1,7 @@
+p::first-line{
+    color: coral;
+}
+li::marker{
+    color: red;
+    font-size: 43px;
+}
